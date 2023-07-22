@@ -1,0 +1,11 @@
+body {
+ 
+}
+
+.container {
+  text-align: justify; /* Выравнивание текста по центру, если он многострочный */
+  padding-left: 230px; /* отсуп слева */
+  padding-right:730px; /* отступ справа */
+  font-family: Arial, sans-serif;
+  font-size:20px;
+}
